@@ -1,2 +1,2 @@
 # Gittest
-test
+testing out git and github for next project
